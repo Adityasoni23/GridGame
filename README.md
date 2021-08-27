@@ -15,15 +15,15 @@ BASIC GUIDELINES:
 4.	The program should provide a way to search by the name of the cell and show the current state of the cell 
 5.	The program should end on termination through appropriate OS specific signals.
 
-IDE USED: Eclipse
+IDE USED: VScode
 LANGUAGE USED: Java
 DESIGN: Object Oriented
-USER INTERFACE: Eclipse Console
+USER INTERFACE: VScode Console
 
 BUILDING AND RUNNING INSTRUCTIONS:
-1.	Basic requirements include Eclipse,GCC/or any other compiler.
+1.	Basic requirements include VScode,Java extensions,GCC/or any other compiler.
 2.	Build the project first from the options.
-3.	Click run.
+3.	Click Run Java.
 4.	Provide the basic inputs to the compiler.
 5.	Final output is shown.
 

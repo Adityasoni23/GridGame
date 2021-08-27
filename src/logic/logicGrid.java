@@ -52,6 +52,7 @@ public class logicGrid {
 	        int search_column= sc.nextInt();
 	        
 	        System.out.println("\nState of the cell:"+grid[search_row-1][search_column-1]);
+            sc.close();
 	    }
 
 	 
